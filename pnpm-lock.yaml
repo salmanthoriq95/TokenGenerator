@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/crypto-js': ^4.1.2
+  crypto-js: ^4.1.1
+
+dependencies:
+  '@types/crypto-js': 4.1.2
+  crypto-js: 4.1.1
+
+packages:
+
+  /@types/crypto-js/4.1.2:
+    resolution: {integrity: sha512-t33RNmTu5ufG/sorROIafiCVJMx3jz95bXUMoPAZcUD14fxMXnuTzqzXZoxpR0tNx2xpw11Dlmem9vGCsrSOfA==}
+    dev: false
+
+  /crypto-js/4.1.1:
+    resolution: {integrity: sha512-o2JlM7ydqd3Qk9CA0L4NL6mTzU2sdx96a+oOfPu8Mkl/PK51vSyoi8/rQ8NknZtk44vq15lmhAj9CIAGwgeWKw==}
+    dev: false
